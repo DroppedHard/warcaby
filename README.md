@@ -15,4 +15,4 @@ Gra rozpocznie się po zalogowaniu się 2 graczy.
 Ruch pionków jest niezależny od zasad - poruszają się na odpowiednie pola i gracz nie widzi ruchu przeciwnika. 
 
 # rozwój
-Planuję rozwinąć ten projekt, aby działał lepiej, jednak ostatnio nie mam czasu (egzamin zawodowy i praktyka w Cisco).
+Powinienem dokończyć projekt, jednak jest to też prezentacja tego, ile mogę zrobić programu w jeden wieczór. Poza tym zobaczymy co przyniesie przyszłość...
